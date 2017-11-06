@@ -1,7 +1,7 @@
 ---
 image_url: teensy35.jpg
 caption: Υπάρχουν πάρα πολλά είδη Arduino τα οποία εξυπηρετούν διαφορετικές ανάγκες. Το συγκεκριμένο βασίζεται στην αρχιτεκτονική ARM Cortex M4 και προσφέρει περισσότερους πόρους και ποιο σύγχρονες τεχνολογίες διασυνδεσιμότητας.
-title: ARM Based Arduino
+title: ARM Based Arduino (Teensy 3.5)
 categories:
   - tools
 ---
