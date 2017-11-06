@@ -62,7 +62,7 @@ author: "epidrome"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 # url: "http://www.pibook.gr"
-url: "https://std123950.github.io/pibookgr"
+url: "https://std123950.github.io/pibookgr/pibookgr"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
