@@ -3,21 +3,21 @@
   side: left
 
 - title: "ΕΙΚΟΝΕΣ"
-  url: "/pibookgr//gallery/"
+  url: "/gallery/"
   side: left
 
 - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
-  url: "/pibookgr//case-study/"
+  url: "/case-study/"
   side: left
 
 - title: "ΒΙΟΓΡΑΦΙΕΣ"
-  url: "/pibookgr//biography/"
+  url: "/biography/"
   side: left
 
 - title: "ΜΟΤΙΒΑ"
-  url: "/pibookgr//remix/"
+  url: "/remix/"
   side: left
 
 - title: "ΚΑΤΑΣΚΕΥΕΣ"
-  url: "/pibookgr//making/"
+  url: "/making/"
   side: left
