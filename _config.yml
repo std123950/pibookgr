@@ -61,12 +61,13 @@ author: "epidrome"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://www.pibook.gr"
+# url: "http://www.pibook.gr"
+url: "https://std123950.github.io/pibookgr"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/pibook/pibookgr/edit/gh-pages
+improve_content: https://github.com/std123950/pibookgr/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
